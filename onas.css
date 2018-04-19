@@ -1,0 +1,40 @@
+h1{
+  padding: 5 50%;
+  color: white;
+  font-size: 45px;
+}
+h2{
+  color: white;
+  font-size: 30px;
+}
+p{
+  color: white;
+  text-align:;
+
+}
+   body {
+    background-image: url(fon.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+   }
+   table{
+     text-align: center;
+     color: lime;
+      }
+   Li{
+     color: gold;
+     font-size: 35px;
+   }
+   h5{
+     font-size: 10px;
+     color: green;
+
+   }
+div{
+  background:black; width:987px; height:20px;
+   color: green;
+   position:fixed;
+   bottom: 40px;
+   left: 800px;
+}
